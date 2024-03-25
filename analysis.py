@@ -112,3 +112,5 @@ fig = px.imshow(top_word_associations,
 fig.update_yaxes(autorange="reversed")
 
 fig.show()
+
+
