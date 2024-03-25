@@ -27,25 +27,26 @@ Furthur the process I followed is as below
 
 Visualize the most frequent words in the article titles.  
 
-![Word Cloud of Titles](![newplot](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/7d9fdc67-6273-4fed-9cca-d2387c747a31))
+![newplot](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/023a58ee-9cc6-4fce-9e61-c949e01ff082)
+
 
 ### Sentiment Distribution
 
 Analyze the sentiment expressed in the articles.  
 
-(![newplot (1)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/def3b2b7-fdfd-4f7a-be0f-162fdca1af52))
+![newplot (1)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/def3b2b7-fdfd-4f7a-be0f-162fdca1af52)
 
 ### Top Named Entities
 
 Extract and visualize the most common named entities (organizations, locations, etc.) mentioned in the articles.  
 
-![Top Named Entities](![newplot (2)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/d9e104bd-6d53-407f-ae11-7b8d8ab5e8be))
+![newplot (2)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/d9e104bd-6d53-407f-ae11-7b8d8ab5e8be)
 
 ### Topic Distribution
 
 Uncover latent topics within the articles using topic modeling techniques.
 
-![Topic Distribution](![newplot (3)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/6b62cf79-f980-4c6d-946f-c48f60871294))
+![newplot (3)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/6b62cf79-f980-4c6d-946f-c48f60871294)
 
 ## Summary
 
