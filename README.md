@@ -64,5 +64,5 @@ Analyzed the most common words (Top 15) for each topic and visualized using topi
 
 ## Summary
 
-Text Analysis is a valuable technique for gaining insights from unstructured text data. This project demonstrates the application of various text analysis techniques using Python. For further details, refer to the code provided in this repository.
+Text Analysis is a valuable technique for gaining insights from unstructured text data. This project demonstrates the application of various text analysis techniques using Python. For further details, refer to the code provided in this repository [here](analysis.py)
 
