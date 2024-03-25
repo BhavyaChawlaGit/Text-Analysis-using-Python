@@ -33,7 +33,7 @@ Visualize the most frequent words in the article titles.
 
 Analyze the sentiment expressed in the articles.  
 
-![Sentiment Distribution](![newplot (1)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/def3b2b7-fdfd-4f7a-be0f-162fdca1af52))
+(![newplot (1)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/def3b2b7-fdfd-4f7a-be0f-162fdca1af52))
 
 ### Top Named Entities
 
