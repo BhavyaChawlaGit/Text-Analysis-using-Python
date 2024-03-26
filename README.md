@@ -24,7 +24,6 @@ Furthur the process I followed is as below
 - Create relevant features from the text data if necessary
 - Select appropriate NLP model for my task
 
----
 
 ## Results
 
@@ -34,6 +33,7 @@ Created a word cloud visualization to illustrate the most frequent words appeari
 
 ![newplot](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/023a58ee-9cc6-4fce-9e61-c949e01ff082)
 
+---
 
 ### Sentiment Distribution
 
@@ -41,17 +41,23 @@ Analyzed the sentiment expressed in the articles using the TextBlob library. By 
 
 ![newplot (1)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/def3b2b7-fdfd-4f7a-be0f-162fdca1af52)
 
+---
+
 ### Top Named Entities
 
 Utilized Named Entity Recognition (NER) technique to extract and visualize the most common named entities (such as organizations, locations, etc.) mentioned in the articles. This aids in identifying the prominent entities discussed in the text data.   
 
 ![newplot (2)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/d9e104bd-6d53-407f-ae11-7b8d8ab5e8be)
 
+---
+
 ### Topic Distribution
 
 Applied Latent Dirichlet Allocation (LDA) for topic modeling to uncover latent topics within the articles. The bar chart visualization presents the distribution of dominant topics across the dataset, providing insights into prevalent themes or subjects discussed.  
 
 ![newplot (3)](https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/6b62cf79-f980-4c6d-946f-c48f60871294)
+
+---
 
 ### Most common words for each topic
 
