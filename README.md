@@ -17,12 +17,12 @@ You can download the dataset [here](https://statso.io/wp-content/uploads/2023/02
 
 Furthur the process I followed is as below
 
-- Gather the text data
-- Clean and preprocess the text data
-- Convert the text into a numerical format that machine learning algorithms can understand
-- Analyze the text data to gain insights
-- Create relevant features from the text data if necessary
-- Select appropriate NLP model for my task
+- Data Collection: Load articles from a CSV file.
+- Text Preprocessing: Prepare titles and articles for analysis.
+- Numerical Transformation: Turn text into word counts for analysis.
+- Data Analysis: Create visuals for word frequency, sentiment, entities, and topics.
+- Feature Creation: Calculate sentiment scores and identify entity types.
+- Model Selection: Use LDA for uncovering topics in articles.
 
 
 ## Results
