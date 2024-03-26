@@ -7,10 +7,10 @@ This project aims to demonstrate various text analysis techniques using Python.
 
 For text analysis, I utilized a dataset containing articles with the following attributes:
 
-- Article text
-- Article title
+- Article
+- Title
 
-- <img width="753" alt="Screenshot 2024-03-25 at 4 16 48 PM" src="https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/7283dd42-f3ee-4b31-b18e-84785a79b371">
+<img width="753" alt="Screenshot 2024-03-25 at 4 16 48 PM" src="https://github.com/BhavyaChawlaGit/Text-Analysis-using-Python/assets/112718303/7283dd42-f3ee-4b31-b18e-84785a79b371">
 
 
 You can download the dataset [here](https://statso.io/wp-content/uploads/2023/02/Topic-Modelling.zip).
